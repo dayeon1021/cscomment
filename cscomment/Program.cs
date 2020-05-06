@@ -25,7 +25,7 @@ namespace cscomment
             else
             {
                 Console.WriteLine();
-            }
+            }    
         }
     }
 }
